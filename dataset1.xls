@@ -1,0 +1,11 @@
+country,age ,salary,purchased
+india ,18,10000,yes
+india ,19,20000,no
+china ,20,30000,yes
+china ,21,40000,yes
+france ,22,50000,no
+veitnam ,23,60000,no
+thialand,24,20000,yes
+thiailand,19,,
+vietnam,,30000,no
+inida,,28,
